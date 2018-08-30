@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.9.3",
+    "@types/uuid": "^3.4.4",
+    "typescript": "^3.0.3"
+  }
+}
